@@ -1,0 +1,6 @@
+This project is for educational purposes only. 
+Using may violate the terms of service of the game. 
+Any use, copying, modification, or distribution of this code 
+without the author's written permission is strictly prohibited.
+
+Copyright (c) [2025] [Dmytro Skyrta]
